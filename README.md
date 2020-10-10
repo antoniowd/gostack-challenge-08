@@ -1,7 +1,7 @@
 <img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios-new.png" style="width: 100%;"/>
 
 <h3 align="center">
-  Challenge 07: Fundamentals of React Native
+  Challenge 08: Fundamentals of React Native
 </h3>
 
 <blockquote align="center">“There is no finish line, the victory is in keeping running!”</blockquote>
